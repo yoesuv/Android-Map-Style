@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Demo Map Style</string>
+
+    <!-- google maps api key -->
+    <string name="google_maps_api_key" translatable="false">AIzaSyCBw4xXF0RlG4VJhdjHnRPprfyqHDeQkCQ</string>
+
+    <!-- map menu -->
+    <string name="menu_normal">Normal</string>
+    <string name="menu_silver">Silver</string>
+    <string name="menu_retro">Retro</string>
+    <string name="menu_dark">Dark</string>
+    <string name="menu_night">Night</string>
+    <string name="menu_aubergine">Aubergine</string>
+    <string name="menu_pastel">Pastel</string>
+</resources>

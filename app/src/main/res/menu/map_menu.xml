@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/map_normal"
+            android:title="@string/menu_normal"
+            android:checked="true" />
+        <item
+            android:id="@+id/map_silver"
+            android:title="@string/menu_silver" />
+        <item
+            android:id="@+id/map_retro"
+            android:title="@string/menu_retro" />
+        <item
+            android:id="@+id/map_dark"
+            android:title="@string/menu_dark" />
+        <item
+            android:id="@+id/map_night"
+            android:title="@string/menu_night" />
+        <item
+            android:id="@+id/map_aubergine"
+            android:title="@string/menu_aubergine" />
+        <item
+            android:id="@+id/map_pastel"
+            android:title="@string/menu_pastel" />
+
+    </group>
+</menu>
